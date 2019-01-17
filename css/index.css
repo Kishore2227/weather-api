@@ -1,0 +1,17 @@
+.container{
+	width:30%;
+}
+#s-btn{
+	width:30%;
+	margin-left:35%;
+	margin-top:5%;
+}
+
+@media only screen and (min-width: 700px) {
+  .container{
+  	width:50%;
+  }
+  #s-btn{
+  	width:40%;
+  }
+}
